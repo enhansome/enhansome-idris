@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106309432,
             "language": "Idris",
             "last_commit": "2024-05-29T23:39:55Z",
             "owner": "typedefs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177857476,
             "language": "Idris",
             "last_commit": "2020-06-23T14:34:39Z",
             "owner": "statebox",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13540219,
             "language": "Idris",
             "last_commit": "2019-04-11T05:47:44Z",
             "owner": "ziman",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21372955,
             "language": "Idris",
             "last_commit": "2019-05-31T13:14:39Z",
             "owner": "puffnfresh",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15179826,
             "language": "Idris",
             "last_commit": "2019-01-28T15:20:43Z",
             "owner": "timjb",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9889220,
             "language": "Idris",
             "last_commit": "2017-12-21T19:32:39Z",
             "owner": "david-christiansen",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24740996,
             "language": "Idris",
             "last_commit": "2018-10-07T17:57:03Z",
             "owner": "idris-hackers",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30192577,
             "language": "Idris",
             "last_commit": "2020-05-22T09:03:55Z",
             "owner": "jfdm",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96308956,
             "language": "Idris",
             "last_commit": "2019-03-21T08:23:25Z",
             "owner": "pheymann",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16515658,
             "language": "Idris",
             "last_commit": "2018-05-01T20:01:15Z",
             "owner": "david-christiansen",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39948993,
             "language": "Idris",
             "last_commit": "2018-12-26T11:46:50Z",
             "owner": "uwap",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40208428,
             "language": "Idris",
             "last_commit": "2019-07-02T19:54:12Z",
             "owner": "fieldstrength",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63378472,
             "language": "Idris",
             "last_commit": "2017-08-12T23:02:32Z",
             "owner": "google",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42333249,
             "language": "Idris",
             "last_commit": "2018-08-14T05:13:00Z",
             "owner": "idris-hackers",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12833563,
             "language": "Idris",
             "last_commit": "2018-11-12T12:18:03Z",
             "owner": "FranckS",
@@ -220,24 +235,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28208420,
             "language": "Idris",
             "last_commit": "2017-11-08T16:40:07Z",
             "owner": "jfdm",
             "repo": "idris-config",
             "stars": 19
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub's trending Idris repos",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63519226,
             "language": "Idris",
             "last_commit": "2026-08-11T02:47:08Z",
             "owner": "mmhelloworld",
@@ -260,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26605686,
             "language": "Haskell",
             "last_commit": "2017-07-01T20:41:18Z",
             "owner": "lenary",
@@ -274,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23145238,
             "language": "Haskell",
             "last_commit": "2017-07-28T20:51:40Z",
             "owner": "idris-hackers",
@@ -288,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61710758,
             "language": "Haskell",
             "last_commit": "2018-06-20T23:02:33Z",
             "owner": "stedolan",
@@ -299,7 +313,7 @@
       "title": "Backends"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -308,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 140384139,
             "language": "Rust",
             "last_commit": "2020-07-16T10:14:36Z",
             "owner": "elba",
@@ -322,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140267674,
             "language": "Idris",
             "last_commit": "2019-02-20T02:47:10Z",
             "owner": "idris-industry",
@@ -336,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116189644,
             "language": "Haskell",
             "last_commit": "2021-03-19T23:53:46Z",
             "owner": "idream-build",
@@ -345,16 +362,12 @@
         }
       ],
       "title": "Build tools | Package managers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:57:22.667Z",
+    "last_updated": "2026-08-19T12:34:25.519Z",
     "original_repository": "joaomilho/awesome-idris",
+    "original_repository_id": 98797847,
     "original_repository_sha": "0938a73785ad94c49e41516a6647f81027e9eafe",
     "enhanced_repository": "enhansome/enhansome-idris",
     "enhanced_repository_description": null,
