@@ -258,7 +258,7 @@
             "archived": false,
             "id": 63519226,
             "language": "Idris",
-            "last_commit": "2026-08-11T02:47:08Z",
+            "last_commit": "2026-08-20T03:38:16Z",
             "owner": "mmhelloworld",
             "repo": "idris-jvm",
             "stars": 482
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:25.519Z",
+    "last_updated": "2026-08-20T05:58:05.021Z",
     "original_repository": "joaomilho/awesome-idris",
     "original_repository_id": 98797847,
     "original_repository_sha": "0938a73785ad94c49e41516a6647f81027e9eafe",
