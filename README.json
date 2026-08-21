@@ -15,7 +15,7 @@
             "last_commit": "2024-05-29T23:39:55Z",
             "owner": "typedefs",
             "repo": "typedefs",
-            "stars": 373
+            "stars": 372
           }
         },
         {
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:58:05.021Z",
+    "last_updated": "2026-08-21T05:59:53.858Z",
     "original_repository": "joaomilho/awesome-idris",
     "original_repository_id": 98797847,
     "original_repository_sha": "0938a73785ad94c49e41516a6647f81027e9eafe",

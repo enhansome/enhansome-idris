@@ -55,7 +55,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Projects
 
-* [typedefs](https://github.com/typedefs/typedefs) ⭐ 373 | 🐛 55 | 🌐 Idris | 📅 2024-05-29 - Programming language-agnostic, algebraic data type definition language
+* [typedefs](https://github.com/typedefs/typedefs) ⭐ 372 | 🐛 55 | 🌐 Idris | 📅 2024-05-29 - Programming language-agnostic, algebraic data type definition language
 * [idris-ct](https://github.com/statebox/idris-ct) ⭐ 273 | 🐛 30 | 🌐 Idris | 📅 2020-06-23 - Formally verified category theory library
 * [lightyear](https://github.com/ziman/lightyear) ⭐ 245 | 🐛 10 | 🌐 Idris | 📅 2019-04-11 - Parser combinators for Idris.
 * [iridium](https://github.com/puffnfresh/iridium) ⭐ 209 | 🐛 6 | 🌐 Idris | 📅 2019-05-31 - xmonad with the X11 abstracted and configured with Idris.
@@ -100,4 +100,4 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
