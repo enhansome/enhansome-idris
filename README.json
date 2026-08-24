@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Official repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2386778,
+            "language": "Haskell",
+            "last_commit": "2025-02-17T14:08:47Z",
+            "owner": "idris-lang",
+            "repo": "Idris-dev",
+            "stars": 3479
+          }
+        }
+      ],
+      "title": "Official resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software Foundations",
+          "description": "Repo is here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61795011,
+            "language": "Idris",
+            "last_commit": "2019-05-15T19:06:08Z",
+            "owner": "idris-hackers",
+            "repo": "software-foundations",
+            "stars": 459
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "typedefs",
           "description": "Programming language-agnostic, algebraic data type definition language",
           "children": [],
@@ -365,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:05:02.187Z",
+    "last_updated": "2026-08-24T14:25:53.956Z",
     "original_repository": "joaomilho/awesome-idris",
     "original_repository_id": 98797847,
     "original_repository_sha": "0938a73785ad94c49e41516a6647f81027e9eafe",
