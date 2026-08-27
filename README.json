@@ -303,7 +303,7 @@
             "last_commit": "2026-08-20T03:38:16Z",
             "owner": "mmhelloworld",
             "repo": "idris-jvm",
-            "stars": 482
+            "stars": 483
           }
         },
         {
@@ -407,9 +407,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:01:18.832Z",
-    "original_repository": "joaomilho/awesome-idris",
-    "original_repository_id": 98797847,
+    "last_updated": "2026-08-27T11:44:10.430Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 98797847,
+      "language": "Idris",
+      "last_commit": "2020-02-20T19:56:12Z",
+      "owner": "joaomilho",
+      "repo": "awesome-idris",
+      "stars": 414
+    },
     "original_repository_sha": "0938a73785ad94c49e41516a6647f81027e9eafe",
     "enhanced_repository": "enhansome/enhansome-idris",
     "enhanced_repository_description": null,
