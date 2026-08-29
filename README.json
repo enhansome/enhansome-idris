@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Dependently Typed Functional Programming Language",
+            "homepage": "http://idris-lang.org",
             "id": 2386778,
             "language": "Haskell",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-17T14:08:47Z",
+            "open_issues": 708,
             "owner": "idris-lang",
             "repo": "Idris-dev",
-            "stars": 3479
+            "stars": 3479,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         }
@@ -32,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software Foundations in Idris",
+            "homepage": "https://idris-hackers.github.io/software-foundations",
             "id": 61795011,
             "language": "Idris",
+            "license": "MIT",
             "last_commit": "2019-05-15T19:06:08Z",
+            "open_issues": 15,
             "owner": "idris-hackers",
             "repo": "software-foundations",
-            "stars": 459
+            "stars": 459,
+            "topics": [
+              "book",
+              "computer-science",
+              "idris",
+              "theorem-proving"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         }
@@ -54,12 +69,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming language agnostic type construction language based on polynomials.",
+            "homepage": "http://typedefs.com/",
             "id": 106309432,
             "language": "Idris",
+            "license": "AGPL-3.0",
             "last_commit": "2024-05-29T23:39:55Z",
+            "open_issues": 55,
             "owner": "typedefs",
             "repo": "typedefs",
-            "stars": 372
+            "stars": 372,
+            "topics": [
+              "category-theory",
+              "f-algebras",
+              "marshalling",
+              "serialization",
+              "serialization-library",
+              "type-definitions",
+              "type-theory",
+              "types"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -70,12 +99,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "formally verified category theory library",
+            "homepage": null,
             "id": 177857476,
             "language": "Idris",
+            "license": "AGPL-3.0",
             "last_commit": "2020-06-23T14:34:39Z",
+            "open_issues": 30,
             "owner": "statebox",
             "repo": "idris-ct",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "category-theory",
+              "formal-proofs",
+              "formal-verification"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -86,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parser combinators for Idris",
+            "homepage": null,
             "id": 13540219,
             "language": "Idris",
+            "license": "NOASSERTION",
             "last_commit": "2019-04-11T05:47:44Z",
+            "open_issues": 10,
             "owner": "ziman",
             "repo": "lightyear",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -102,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "xmonad with the X11 abstracted and configured with Idris",
+            "homepage": null,
             "id": 21372955,
             "language": "Idris",
+            "license": "MIT",
             "last_commit": "2019-05-31T13:14:39Z",
+            "open_issues": 6,
             "owner": "puffnfresh",
             "repo": "iridium",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -118,12 +166,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Type-safe physical computations and unit conversions in Idris ⚖ 🌡 ⏲ 🔋 📐",
+            "homepage": "http://timbaumann.info/quantities/docs",
             "id": 15179826,
             "language": "Idris",
+            "license": "MIT",
             "last_commit": "2019-01-28T15:20:43Z",
+            "open_issues": 1,
             "owner": "timjb",
             "repo": "quantities",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "type-safety",
+              "unit-conversion",
+              "units-of-measure"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -134,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Type provider library for Idris",
+            "homepage": null,
             "id": 9889220,
             "language": "Idris",
+            "license": null,
             "last_commit": "2017-12-21T19:32:39Z",
+            "open_issues": 2,
             "owner": "david-christiansen",
             "repo": "idris-type-providers",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -150,12 +212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FFI Bindings to interact with the unsafe world of JavaScript",
+            "homepage": null,
             "id": 24740996,
             "language": "Idris",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-10-07T17:57:03Z",
+            "open_issues": 3,
             "owner": "idris-hackers",
             "repo": "IdrisScript",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -166,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Various data structures for use in the Idris Language.",
+            "homepage": null,
             "id": 30192577,
             "language": "Idris",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-05-22T09:03:55Z",
+            "open_issues": 1,
             "owner": "jfdm",
             "repo": "idris-containers",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -182,12 +254,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A test framework for Idris",
+            "homepage": null,
             "id": 96308956,
             "language": "Idris",
+            "license": "MIT",
             "last_commit": "2019-03-21T08:23:25Z",
+            "open_issues": 1,
             "owner": "pheymann",
             "repo": "specdris",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "idris",
+              "idris-ecosystem",
+              "test-framework",
+              "testing",
+              "unit-testing",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -198,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effectful bindings for SQLite (forked from IdrisWeb)",
+            "homepage": null,
             "id": 16515658,
             "language": "Idris",
+            "license": "MIT",
             "last_commit": "2018-05-01T20:01:15Z",
+            "open_issues": 3,
             "owner": "david-christiansen",
             "repo": "IdrisSqlite",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -214,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An HTTP library for idris",
+            "homepage": null,
             "id": 39948993,
             "language": "Idris",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-12-26T11:46:50Z",
+            "open_issues": 2,
             "owner": "uwap",
             "repo": "idris-http",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -230,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probabilistic computation in Idris",
+            "homepage": null,
             "id": 40208428,
             "language": "Idris",
+            "license": null,
             "last_commit": "2019-07-02T19:54:12Z",
+            "open_issues": 3,
             "owner": "fieldstrength",
             "repo": "probability",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -246,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A partial implementation of Protocol Buffers in Idris",
+            "homepage": null,
             "id": 63378472,
             "language": "Idris",
+            "license": "Apache-2.0",
             "last_commit": "2017-08-12T23:02:32Z",
+            "open_issues": 2,
             "owner": "google",
             "repo": "idris-protobuf",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -262,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Monads and useful constructions to work with them",
+            "homepage": null,
             "id": 42333249,
             "language": "Idris",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-08-14T05:13:00Z",
+            "open_issues": 5,
             "owner": "idris-hackers",
             "repo": "idris-free",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -278,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ring solver for Idris",
+            "homepage": null,
             "id": 12833563,
             "language": "Idris",
+            "license": null,
             "last_commit": "2018-11-12T12:18:03Z",
+            "open_issues": 2,
             "owner": "FranckS",
             "repo": "RingIdris",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -294,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Parsers for various configuration files written in Idris.",
+            "homepage": null,
             "id": 28208420,
             "language": "Idris",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-11-08T16:40:07Z",
+            "open_issues": 1,
             "owner": "jfdm",
             "repo": "idris-config",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         }
@@ -316,12 +435,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Idris on the JVM",
+            "homepage": "https://idris-jvm.readthedocs.io/",
             "id": 63519226,
             "language": "Idris",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T03:38:16Z",
+            "open_issues": 4,
             "owner": "mmhelloworld",
             "repo": "idris-jvm",
-            "stars": 482
+            "stars": 482,
+            "topics": [
+              "idris",
+              "java",
+              "jvm"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -332,12 +460,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Erlang Backend for Idris Compiler",
+            "homepage": "https://lenary.co.uk/publications/bsc_dissertation/",
             "id": 26605686,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-07-01T20:41:18Z",
+            "open_issues": 1,
             "owner": "lenary",
             "repo": "idris-erlang",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -348,12 +481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Idris LLVM codegen factored out",
+            "homepage": null,
             "id": 23145238,
             "language": "Haskell",
+            "license": "NOASSERTION",
             "last_commit": "2017-07-28T20:51:40Z",
+            "open_issues": 1,
             "owner": "idris-hackers",
             "repo": "idris-llvm",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -364,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental Malfunction backend for Idris",
+            "homepage": null,
             "id": 61710758,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2018-06-20T23:02:33Z",
+            "open_issues": 5,
             "owner": "stedolan",
             "repo": "idris-malfunction",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         }
@@ -386,12 +529,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A package manager for Idris",
+            "homepage": "http://elba.pub",
             "id": 140384139,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2020-07-16T10:14:36Z",
+            "open_issues": 12,
             "owner": "elba",
             "repo": "elba",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "idris",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -402,12 +553,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "build tool and package manager for idris,in idris,with free monads",
+            "homepage": null,
             "id": 140267674,
             "language": "Idris",
+            "license": "Apache-2.0",
             "last_commit": "2019-02-20T02:47:10Z",
+            "open_issues": 2,
             "owner": "idris-industry",
             "repo": "ikan",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "free-monads",
+              "idris",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         },
@@ -418,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple build system for Idris",
+            "homepage": null,
             "id": 116189644,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-03-19T23:53:46Z",
+            "open_issues": 0,
             "owner": "idream-build",
             "repo": "idream",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
         }
@@ -432,15 +597,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:39:37.356Z",
+    "last_updated": "2026-08-29T04:42:53.486Z",
     "original_repository_info": {
       "archived": false,
+      "description": "𝛌 Awesome Idris resources",
+      "homepage": null,
       "id": 98797847,
       "language": "Idris",
+      "license": null,
       "last_commit": "2020-02-20T19:56:12Z",
+      "open_issues": 1,
       "owner": "joaomilho",
       "repo": "awesome-idris",
-      "stars": 414
+      "stars": 414,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "functional-programming",
+        "haskell",
+        "idris",
+        "type-driven-development"
+      ]
     },
     "original_repository_sha": "0938a73785ad94c49e41516a6647f81027e9eafe",
     "enhanced_repository": "enhansome/enhansome-idris",
