@@ -19,7 +19,7 @@
             "open_issues": 708,
             "owner": "idris-lang",
             "repo": "Idris-dev",
-            "stars": 3479,
+            "stars": 3477,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -46,7 +46,7 @@
             "open_issues": 15,
             "owner": "idris-hackers",
             "repo": "software-foundations",
-            "stars": 459,
+            "stars": 457,
             "topics": [
               "book",
               "computer-science",
@@ -440,7 +440,7 @@
             "id": 63519226,
             "language": "Idris",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-20T03:38:16Z",
+            "last_commit": "2026-09-02T16:27:15Z",
             "open_issues": 4,
             "owner": "mmhelloworld",
             "repo": "idris-jvm",
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:50:20.391Z",
+    "last_updated": "2026-09-03T10:02:06.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",

@@ -28,7 +28,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Books
 
-* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations) ⭐ 459 | 🐛 15 | 🌐 Idris | 📅 2019-05-15.
+* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations) ⭐ 457 | 🐛 15 | 🌐 Idris | 📅 2019-05-15.
 * [Type Driven Development With Idris](https://www.manning.com/books/type-driven-development-with-idris) - Most important book published so far.
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
@@ -75,7 +75,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Backends
 
-* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) ⭐ 482 | 🐛 4 | 🌐 Idris | 📅 2026-08-20 - JVM bytecode backend for Idris.
+* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) ⭐ 482 | 🐛 4 | 🌐 Idris | 📅 2026-09-02 - JVM bytecode backend for Idris.
 * [idris-erlang](https://github.com/lenary/idris-erlang) ⚠️ Archived - Erlang backend.
 * [idris-llvm](https://github.com/idris-hackers/idris-llvm) ⭐ 81 | 🐛 1 | 🌐 Haskell | 📅 2017-07-28 - LLVM backend.
 * [idris-malfunction](https://github.com/stedolan/idris-malfunction) ⭐ 81 | 🐛 5 | 🌐 Haskell | 📅 2018-06-20 - Experimental Malfunction (OCaml internal representation) backend.
@@ -100,4 +100,4 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
