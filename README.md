@@ -78,7 +78,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-jvm](https://github.com/mmhelloworld/idris-jvm) ⭐ 483 | 🐛 3 | 🌐 Idris | 📅 2026-09-05 - JVM bytecode backend for Idris.
 * [idris-erlang](https://github.com/lenary/idris-erlang) ⚠️ Archived - Erlang backend.
 * [idris-llvm](https://github.com/idris-hackers/idris-llvm) ⭐ 81 | 🐛 1 | 🌐 Haskell | 📅 2017-07-28 - LLVM backend.
-* [idris-malfunction](https://github.com/stedolan/idris-malfunction) ⭐ 81 | 🐛 5 | 🌐 Haskell | 📅 2018-06-20 - Experimental Malfunction (OCaml internal representation) backend.
+* [idris-malfunction](https://github.com/stedolan/idris-malfunction) ⭐ 80 | 🐛 5 | 🌐 Haskell | 📅 2018-06-20 - Experimental Malfunction (OCaml internal representation) backend.
 
 ### Build tools | Package managers
 
@@ -100,4 +100,4 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
