@@ -19,7 +19,7 @@
             "open_issues": 708,
             "owner": "idris-lang",
             "repo": "Idris-dev",
-            "stars": 3477,
+            "stars": 3476,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -133,7 +133,7 @@
             "open_issues": 10,
             "owner": "ziman",
             "repo": "lightyear",
-            "stars": 245,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -175,7 +175,7 @@
             "open_issues": 1,
             "owner": "timjb",
             "repo": "quantities",
-            "stars": 165,
+            "stars": 164,
             "topics": [
               "type-safety",
               "unit-conversion",
@@ -200,27 +200,6 @@
             "open_issues": 2,
             "owner": "david-christiansen",
             "repo": "idris-type-providers",
-            "stars": 95,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:39:37.356Z"
-        },
-        {
-          "node_type": "item",
-          "title": "IdrisScript",
-          "description": "FFI Bindings to interact with the unsafe world of JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FFI Bindings to interact with the unsafe world of JavaScript",
-            "homepage": null,
-            "id": 24740996,
-            "language": "Idris",
-            "license": "BSD-2-Clause",
-            "last_commit": "2018-10-07T17:57:03Z",
-            "open_issues": 3,
-            "owner": "idris-hackers",
-            "repo": "IdrisScript",
             "stars": 94,
             "topics": []
           },
@@ -243,6 +222,27 @@
             "owner": "jfdm",
             "repo": "idris-containers",
             "stars": 94,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T17:39:37.356Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IdrisScript",
+          "description": "FFI Bindings to interact with the unsafe world of JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FFI Bindings to interact with the unsafe world of JavaScript",
+            "homepage": null,
+            "id": 24740996,
+            "language": "Idris",
+            "license": "BSD-2-Clause",
+            "last_commit": "2018-10-07T17:57:03Z",
+            "open_issues": 3,
+            "owner": "idris-hackers",
+            "repo": "IdrisScript",
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -291,7 +291,7 @@
             "open_issues": 3,
             "owner": "david-christiansen",
             "repo": "IdrisSqlite",
-            "stars": 41,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -469,7 +469,7 @@
             "open_issues": 1,
             "owner": "lenary",
             "repo": "idris-erlang",
-            "stars": 187,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:00:23.685Z",
+    "last_updated": "2026-09-09T10:02:47.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",

@@ -57,14 +57,14 @@ Idris is a general purpose pure functional programming language with dependent t
 
 * [typedefs](https://github.com/typedefs/typedefs) ⭐ 372 | 🐛 55 | 🌐 Idris | 📅 2024-05-29 - Programming language-agnostic, algebraic data type definition language
 * [idris-ct](https://github.com/statebox/idris-ct) ⭐ 273 | 🐛 30 | 🌐 Idris | 📅 2020-06-23 - Formally verified category theory library
-* [lightyear](https://github.com/ziman/lightyear) ⭐ 245 | 🐛 10 | 🌐 Idris | 📅 2019-04-11 - Parser combinators for Idris.
+* [lightyear](https://github.com/ziman/lightyear) ⭐ 244 | 🐛 10 | 🌐 Idris | 📅 2019-04-11 - Parser combinators for Idris.
 * [iridium](https://github.com/puffnfresh/iridium) ⭐ 209 | 🐛 6 | 🌐 Idris | 📅 2019-05-31 - xmonad with the X11 abstracted and configured with Idris.
-* [quantities](https://github.com/timjb/quantities) ⭐ 165 | 🐛 1 | 🌐 Idris | 📅 2019-01-28 Type-safe physical computations and unit conversions in Idris.
-* [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) ⭐ 95 | 🐛 2 | 🌐 Idris | 📅 2017-12-21 - Type provider library for Idris.
-* [IdrisScript](https://github.com/idris-hackers/IdrisScript) ⭐ 94 | 🐛 3 | 🌐 Idris | 📅 2018-10-07 - FFI Bindings to interact with the unsafe world of JavaScript.
+* [quantities](https://github.com/timjb/quantities) ⭐ 164 | 🐛 1 | 🌐 Idris | 📅 2019-01-28 Type-safe physical computations and unit conversions in Idris.
+* [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) ⭐ 94 | 🐛 2 | 🌐 Idris | 📅 2017-12-21 - Type provider library for Idris.
 * [idris-containers](https://github.com/jfdm/idris-containers) ⚠️ Archived - Various data structures for use in the Idris Language.
+* [IdrisScript](https://github.com/idris-hackers/IdrisScript) ⭐ 93 | 🐛 3 | 🌐 Idris | 📅 2018-10-07 - FFI Bindings to interact with the unsafe world of JavaScript.
 * [specdris](https://github.com/pheymann/specdris) ⭐ 55 | 🐛 1 | 🌐 Idris | 📅 2019-03-21 - Test framework for Idris.
-* [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) ⭐ 41 | 🐛 3 | 🌐 Idris | 📅 2018-05-01 - Effectful bindings for SQLite.
+* [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) ⭐ 40 | 🐛 3 | 🌐 Idris | 📅 2018-05-01 - Effectful bindings for SQLite.
 * [idris-http](https://github.com/uwap/idris-http) ⭐ 39 | 🐛 2 | 🌐 Idris | 📅 2018-12-26 - HTTP library for Idris.
 * [probability](https://github.com/BlackBrane/probability) ⭐ 33 | 🐛 3 | 🌐 Idris | 📅 2019-07-02 - Probabilistic computation in Idris.
 * [idris-protobuf](https://github.com/google/idris-protobuf) ⚠️ Archived - Partial implementation of Protocol Buffers in Idris.
@@ -100,4 +100,4 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
