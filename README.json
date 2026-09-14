@@ -46,7 +46,7 @@
             "open_issues": 15,
             "owner": "idris-hackers",
             "repo": "software-foundations",
-            "stars": 457,
+            "stars": 458,
             "topics": [
               "book",
               "computer-science",
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:31:53.112Z",
+    "last_updated": "2026-09-14T10:54:55.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
