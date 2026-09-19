@@ -46,7 +46,7 @@
             "open_issues": 15,
             "owner": "idris-hackers",
             "repo": "software-foundations",
-            "stars": 458,
+            "stars": 457,
             "topics": [
               "book",
               "computer-science",
@@ -108,7 +108,7 @@
             "open_issues": 30,
             "owner": "statebox",
             "repo": "idris-ct",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "category-theory",
               "formal-proofs",
@@ -444,7 +444,7 @@
             "open_issues": 3,
             "owner": "mmhelloworld",
             "repo": "idris-jvm",
-            "stars": 483,
+            "stars": 482,
             "topics": [
               "idris",
               "java",
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:59:39.644Z",
+    "last_updated": "2026-09-19T09:41:20.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
