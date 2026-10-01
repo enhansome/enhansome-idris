@@ -28,7 +28,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Books
 
-* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations) ⭐ 457 | 🐛 15 | 🌐 Idris | 📅 2019-05-15.
+* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations) ⭐ 458 | 🐛 15 | 🌐 Idris | 📅 2019-05-15.
 * [Type Driven Development With Idris](https://www.manning.com/books/type-driven-development-with-idris) - Most important book published so far.
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
@@ -55,7 +55,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Projects
 
-* [typedefs](https://github.com/typedefs/typedefs) ⭐ 372 | 🐛 55 | 🌐 Idris | 📅 2024-05-29 - Programming language-agnostic, algebraic data type definition language
+* [typedefs](https://github.com/typedefs/typedefs) ⭐ 373 | 🐛 55 | 🌐 Idris | 📅 2024-05-29 - Programming language-agnostic, algebraic data type definition language
 * [idris-ct](https://github.com/statebox/idris-ct) ⭐ 272 | 🐛 30 | 🌐 Idris | 📅 2020-06-23 - Formally verified category theory library
 * [lightyear](https://github.com/ziman/lightyear) ⭐ 244 | 🐛 10 | 🌐 Idris | 📅 2019-04-11 - Parser combinators for Idris.
 * [iridium](https://github.com/puffnfresh/iridium) ⭐ 209 | 🐛 6 | 🌐 Idris | 📅 2019-05-31 - xmonad with the X11 abstracted and configured with Idris.
@@ -100,4 +100,4 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

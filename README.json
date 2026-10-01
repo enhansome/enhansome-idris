@@ -46,7 +46,7 @@
             "open_issues": 15,
             "owner": "idris-hackers",
             "repo": "software-foundations",
-            "stars": 457,
+            "stars": 458,
             "topics": [
               "book",
               "computer-science",
@@ -78,7 +78,7 @@
             "open_issues": 55,
             "owner": "typedefs",
             "repo": "typedefs",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "category-theory",
               "f-algebras",
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:18:45.251Z",
+    "last_updated": "2026-10-01T11:45:58.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
