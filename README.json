@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Official repo",
-          "description": null,
+          "description": "idris-lang/Idris-dev",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:16:00.440Z",
+    "last_updated": "2026-10-03T04:50:06.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
