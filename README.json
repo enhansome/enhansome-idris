@@ -19,7 +19,7 @@
             "open_issues": 708,
             "owner": "idris-lang",
             "repo": "Idris-dev",
-            "stars": 3477,
+            "stars": 3478,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:11:36.638Z",
+    "last_updated": "2026-10-09T12:03:15.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
