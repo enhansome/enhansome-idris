@@ -69,7 +69,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [probability](https://github.com/BlackBrane/probability) ⭐ 33 | 🐛 3 | 🌐 Idris | 📅 2019-07-02 - Probabilistic computation in Idris.
 * [idris-protobuf](https://github.com/google/idris-protobuf) ⚠️ Archived - Partial implementation of Protocol Buffers in Idris.
 * [idris-free](https://github.com/idris-hackers/idris-free) ⭐ 26 | 🐛 5 | 🌐 Idris | 📅 2018-08-14 - Free Monads and useful constructions to work with them.
-* [RingIdris](https://github.com/FranckS/RingIdris) ⭐ 20 | 🐛 2 | 🌐 Idris | 📅 2018-11-12 - Ring solver for Idris.
+* [RingIdris](https://github.com/FranckS/RingIdris) ⭐ 21 | 🐛 2 | 🌐 Idris | 📅 2018-11-12 - Ring solver for Idris.
 * [idris-config](https://github.com/jfdm/idris-config) ⚠️ Archived - Parsers for various configuration files written in Idris.
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
 
@@ -100,4 +100,4 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
