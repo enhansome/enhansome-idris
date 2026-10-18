@@ -133,7 +133,7 @@
             "open_issues": 10,
             "owner": "ziman",
             "repo": "lightyear",
-            "stars": 244,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:37.356Z"
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:36:38.517Z",
+    "last_updated": "2026-10-18T09:48:49.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
