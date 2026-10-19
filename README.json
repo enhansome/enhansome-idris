@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:48:49.512Z",
+    "last_updated": "2026-10-19T11:07:06.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
@@ -606,7 +606,7 @@
       "language": "Idris",
       "license": null,
       "last_commit": "2020-02-20T19:56:12Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "joaomilho",
       "repo": "awesome-idris",
       "stars": 414,
