@@ -444,7 +444,7 @@
             "open_issues": 3,
             "owner": "mmhelloworld",
             "repo": "idris-jvm",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "idris",
               "java",
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:14:15.662Z",
+    "last_updated": "2026-11-10T13:42:32.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "𝛌 Awesome Idris resources",
@@ -609,7 +609,7 @@
       "open_issues": 2,
       "owner": "joaomilho",
       "repo": "awesome-idris",
-      "stars": 414,
+      "stars": 415,
       "topics": [
         "awesome",
         "awesome-list",
